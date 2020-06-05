@@ -1,0 +1,10 @@
+C:\Users\andonovj\source\repos\PersonalTasks\PersonalTasks\bin\Debug\netcoreapp3.1\StringReduction.exe
+C:\Users\andonovj\source\repos\PersonalTasks\PersonalTasks\bin\Debug\netcoreapp3.1\StringReduction.deps.json
+C:\Users\andonovj\source\repos\PersonalTasks\PersonalTasks\bin\Debug\netcoreapp3.1\StringReduction.runtimeconfig.json
+C:\Users\andonovj\source\repos\PersonalTasks\PersonalTasks\bin\Debug\netcoreapp3.1\StringReduction.runtimeconfig.dev.json
+C:\Users\andonovj\source\repos\PersonalTasks\PersonalTasks\bin\Debug\netcoreapp3.1\StringReduction.dll
+C:\Users\andonovj\source\repos\PersonalTasks\PersonalTasks\bin\Debug\netcoreapp3.1\StringReduction.pdb
+C:\Users\andonovj\source\repos\PersonalTasks\PersonalTasks\obj\Debug\netcoreapp3.1\StringReduction.AssemblyInfoInputs.cache
+C:\Users\andonovj\source\repos\PersonalTasks\PersonalTasks\obj\Debug\netcoreapp3.1\StringReduction.AssemblyInfo.cs
+C:\Users\andonovj\source\repos\PersonalTasks\PersonalTasks\obj\Debug\netcoreapp3.1\StringReduction.dll
+C:\Users\andonovj\source\repos\PersonalTasks\PersonalTasks\obj\Debug\netcoreapp3.1\StringReduction.pdb
